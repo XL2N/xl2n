@@ -8,20 +8,20 @@
 
 ### 🚀 Tecnologias que uso no dia a dia:
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
 
 ---
 
 ### 📊 Minhas estatísticas no GitHub:
 <div align="center">
-  <a href="https://github.com/gisellenovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisellenovaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellenovaes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/XL2N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XL2N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XL2N&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -32,8 +32,8 @@
 ---
 
 ### 🌐 Onde me encontrar:
-- 💼 [LinkedIn](https://www.linkedin.com/in/gisellenovaes)  
-- 📧 **giselle@email.com**  
+- 💼 [LinkedIn](www.linkedin.com/in/giselle-novaes-0b295a325)  
+- 📧 **giselle.ns.dev@gmail.com**  
 - 🌍 [Portfólio (em breve)]()
 
 ---
