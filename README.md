@@ -6,11 +6,6 @@
 
 ---
 
-### 🐍Meus Commits:
-![Snake animation](https://github.com/XL2N/XL2N/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🚀 Tecnologias que uso no dia a dia:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +14,11 @@
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
+
+---
+
+### 🐍Meus Commits:
+![Snake animation](https://github.com/XL2N/XL2N/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
