@@ -17,7 +17,7 @@
 
 ---
 
-### 🐍Meus Commits:
+### 🐍 Meus Commits Snake:
 ![Snake animation](https://github.com/XL2N/XL2N/blob/output/github-contribution-grid-snake.svg)
 
 ---
