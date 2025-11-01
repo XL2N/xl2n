@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou a Giselle Novaes</h1>
+<h1 align="center">👋 Olá! Me chamo Giselle Novaes</h1>
 
 <p align="center">
 💻 Desenvolvedora apaixonada por tecnologia e por transformar ideias em soluções digitais.  
