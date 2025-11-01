@@ -80,6 +80,7 @@
 ---
 
 <p align="center">
-⭐️ <i>"A tecnologia é o meio, mas a criatividade é o que transforma ideias em impacto."</i>
+⭐️ <i>"Que ninguém se engane, só se consegue a simplicidade através de muito trabalho."</i> 
+   <br>- Clarice Lispector
 </p>
 
